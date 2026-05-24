@@ -192,7 +192,7 @@ Les seuils sont délibérément prudents : mieux vaut signaler moins de lignes a
 
 ---
 
-## 📈 Visuels clés du projet
+##  Visuels clés du projet
 
 ### 1. Distribution des natures — Déséquilibre de classes
 
@@ -266,7 +266,7 @@ Le livrable final classe chaque ligne du catalogue en trois statuts : **OK** (co
 
 ---
 
-## ⚙️ Défis techniques et solutions
+##  Défis techniques et solutions
 
 | Défi | Solution |
 |------|----------|
@@ -304,7 +304,7 @@ Le fichier final enrichi contient l'intégralité du catalogue (525 000 lignes) 
 
 ---
 
-## 🛠️ Stack technique
+## Stack technique
 
 `Python` · `Pandas` · `NumPy` · `Scikit-learn` · `TF-IDF` · `Logistic Regression` · `LinearSVC` · `cleanlab` · `Matplotlib` · `Seaborn` · `Regex` · `Jupyter Notebook` · `Google Colab`
 
@@ -332,7 +332,7 @@ ecommerce-categorisation-marketplace
 
 ---
 
-## 💡 Compétences démontrées
+## Compétences démontrées
 
 - **NLP / Text Mining** : TF-IDF, nettoyage texte, extraction regex, construction de features textuelles
 - **Machine Learning** : classification supervisée multi-classes, tuning, évaluation avancée (F1 macro, matrices de confusion)
@@ -343,7 +343,7 @@ ecommerce-categorisation-marketplace
 
 ---
 
-## 🚀 Ce que ce projet démontre
+## Ce que ce projet démontre
 
 Au-delà du Machine Learning, ce projet illustre ma capacité à :
 
@@ -358,7 +358,7 @@ Au-delà du Machine Learning, ce projet illustre ma capacité à :
 
 ## 👨‍💻 Auteur
 
-**Cedric KOUOKAM** — Data Analyst / Data Scientist / BI — Epitech Toulouse
+**Cedric KOUOKAM** — Data Analyst / Data Scientist / Data Engineer /BI — Epitech Toulouse
 
 Machine Learning · NLP · Data Quality · Business Analytics
 
